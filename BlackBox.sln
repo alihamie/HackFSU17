@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{0D39766D-BB56-E9C5-D125-5A9A6435E5B3}") = "BlackBox", "Assembly-CSharp.csproj", "{F4DA27DC-4977-784C-787F-28D409366AC3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F4DA27DC-4977-784C-787F-28D409366AC3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4DA27DC-4977-784C-787F-28D409366AC3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4DA27DC-4977-784C-787F-28D409366AC3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4DA27DC-4977-784C-787F-28D409366AC3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
